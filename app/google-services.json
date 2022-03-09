@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "493338284850",
+    "project_id": "chat-app-e5ce4",
+    "storage_bucket": "chat-app-e5ce4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493338284850:android:a62bfc525a7f2ce8373d2b",
+        "android_client_info": {
+          "package_name": "com.kamatiaakash.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493338284850-tjie856iknsdol7lj451k7c7hjmsgk6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiG0BRjYiMjDo8Dr9_9wDy9VRv2tSSZQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493338284850-tjie856iknsdol7lj451k7c7hjmsgk6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
